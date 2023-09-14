@@ -1,5 +1,0 @@
-{{#user}}
-Name: Jatin Lalwani
-Skills: HTML, CSS, JS, React.js, Node.js
-Email: 200111027@hbtu.ac.in
-{{/user}}
